@@ -1,2 +1,2 @@
 # sportify
-E-Commerce Web platform built with Django
+E-Commerce Web platform built with Django.
